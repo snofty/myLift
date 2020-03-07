@@ -1,0 +1,78 @@
+[
+  {
+    "peoples": [
+      {
+        "targetFloor": 2
+      },
+      {
+        "targetFloor": 3
+      },
+      {
+        "targetFloor": 6
+      }
+    ]
+  },
+  {
+    "peoples": [
+      {
+        "targetFloor": 6
+      }
+    ]
+  },
+  {
+    "peoples": [
+      {
+        "targetFloor": 5
+      }
+    ]
+  },
+  {
+    "peoples": [
+      {
+        "targetFloor": 7
+      }
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+      {
+        "targetFloor": 10
+      }
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  },
+  {
+    "peoples": [
+
+    ]
+  }
+]
